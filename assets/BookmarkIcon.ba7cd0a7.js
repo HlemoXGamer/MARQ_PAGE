@@ -1,0 +1,1 @@
+import{a as e}from"./QBtn.bcea21f0.js";import{_ as a,q as s,M as r,u as c,R as _}from"./index.ac2fa2e1.js";const n={props:["size","position"]},t={class:_("iconWrapper")};function i(p,m,o,l,d,k){return s(),r("div",t,[c(e,{name:"bookmark",color:"primary",size:o.size},null,8,["size"])])}var v=a(n,[["render",i],["__scopeId","data-v-1a41280c"]]);export{v as B};
